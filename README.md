@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eduardo Diaz</h1>
+<h1 align="center">Hi 👋, I'm Eduardo Diaz ![Uploading FuseBlockchainGIF.gif…]()
+</h1>
 <h3 align="center">A passionate web developer from Mexico</h3>
 
 - 🔭 I’m currently working on [Java with Spring Boot](https://github.com/Lalodza/Spring-Boot-Aplicacion)
